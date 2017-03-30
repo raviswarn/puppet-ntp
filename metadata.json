@@ -1,0 +1,15 @@
+{
+  "name": "swarnaravi-ntp",
+  "version": "0.1.0",
+  "author": "Raveendra Swarna",
+  "summary": "This module is to isntall ntp service",
+  "license": "Apache-2.0",
+  "source": "git@github.com:swarnaravi/puppet-ntp.git",
+  "project_page": "https://github.com/swarnaravi/puppet-ntp.git",
+  "issues_url": "https://github.com/swarnaravi/puppet-ntp.git/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
